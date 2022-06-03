@@ -1,0 +1,13 @@
+sounds/amazing.wav
+sounds/beautiful.wav
+sounds/cute.wav
+sounds/divine.wav
+sounds/enough.wav
+sounds/fancy.wav
+sounds/positive.wav
+sounds/shining.wav
+sounds/shot_caller.wav
+sounds/smart.wav
+sounds/unique.wav
+sounds/worth_it.wav
+sounds/yass.wav
